@@ -15,7 +15,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-<br>
+
 ![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=condorcoders&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
-<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=condorcoders&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
