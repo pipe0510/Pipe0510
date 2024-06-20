@@ -16,7 +16,6 @@
 
 
 
-![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=pipe0510
-&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipe0510&layout=compact&theme=gruvbox)
+![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipe0510&layout=compact&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pipe0510&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
